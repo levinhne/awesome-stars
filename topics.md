@@ -2043,6 +2043,7 @@
 
 ## others 
 
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [compozy/compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated 
