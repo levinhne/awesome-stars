@@ -271,7 +271,7 @@
 - [mattt/emcee](https://github.com/mattt/emcee) - MCP generator for OpenAPIs 🫳🎤💥
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation  Software, Engines and Tools
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -292,7 +292,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -313,6 +313,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation  Software, Engines and Tools
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
@@ -406,6 +407,7 @@
 ## automation 
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
@@ -595,6 +597,7 @@
 
 ## cli 
 
+- [stupside/moley](https://github.com/stupside/moley) - Share a local app on your own domain in one command.
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -923,6 +926,7 @@
 
 ## docker 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [brandonhon/ember](https://github.com/brandonhon/ember) - Self-hosted RSS reader with on-device AI summaries. Single Go binary, embedded Svelte SPA, runs behind Caddy.
@@ -966,6 +970,7 @@
 
 ## documentation 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 
 ## dotfiles 
@@ -1141,6 +1146,7 @@
 
 ## go 
 
+- [stupside/moley](https://github.com/stupside/moley) - Share a local app on your own domain in one command.
 - [samber/go-mod-graph](https://github.com/samber/go-mod-graph) - 🔭 Go module dependency visualizer
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -1270,6 +1276,7 @@
 
 ## golang 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [samber/go-mod-graph](https://github.com/samber/go-mod-graph) - 🔭 Go module dependency visualizer
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
@@ -1770,6 +1777,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
@@ -1819,6 +1827,7 @@
 
 ## markdown 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -2086,7 +2095,6 @@
 
 ## others 
 
-- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [Friendlydicte/The-Benne-Board](https://github.com/Friendlydicte/The-Benne-Board) - The Benne Board — A self-hosted PWA for notes, tasks, finances, habits and goals. With a built-in lunar calendar. Powered by PocketBase. For Friends and Family
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
@@ -2332,6 +2340,7 @@
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2463,6 +2472,7 @@
 
 ## rest-api 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [fluxend/fluxend](https://github.com/fluxend/fluxend) - Backend as a Service (BaaS): Smart choice for developers who value speed and simplicity
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -2529,6 +2539,7 @@
 
 ## self-hosted 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [brandonhon/ember](https://github.com/brandonhon/ember) - Self-hosted RSS reader with on-device AI summaries. Single Go binary, embedded Svelte SPA, runs behind Caddy.
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
@@ -2787,6 +2798,7 @@
 - [drodmun/HIIT-Timer](https://github.com/drodmun/HIIT-Timer) - A useful HIIT timer, where you can either set a single timer, or a whole workout. (multiple rounds)
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [lucafaggianelli/pocket-saas](https://github.com/lucafaggianelli/pocket-saas) - A PocketBase frontend template to launch a SaaS in minutes. Based on React and Tailwind
 - [jellydn/grpc-demo-monorepo](https://github.com/jellydn/grpc-demo-monorepo) - NodeJS/Go + gRPC/Connect + NextJS
