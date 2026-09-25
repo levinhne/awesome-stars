@@ -586,6 +586,7 @@
 
 ## Python 
 
+- [razorback16/openjev](https://github.com/razorback16/openjev) - Open, Jev-compatible System One decision server on DiffusionGemma
 - [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) - 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
