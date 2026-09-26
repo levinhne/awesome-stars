@@ -2111,6 +2111,7 @@
 
 ## others 
 
+- [yzx9/gpm](https://github.com/yzx9/gpm) - A gopass-compatible password client for Android (and desktop)
 - [razorback16/openjev](https://github.com/razorback16/openjev) - Open, Jev-compatible System One decision server on DiffusionGemma
 - [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) - 
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
