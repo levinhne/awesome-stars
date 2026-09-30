@@ -100,6 +100,7 @@
 
 ## Go 
 
+- [Samtroulcode/gp-tui](https://github.com/Samtroulcode/gp-tui) - gopass tui made in go
 - [stupside/moley](https://github.com/stupside/moley) - Share a local app on your own domain in one command.
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
@@ -285,7 +286,7 @@
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
 - [minhthuy30197/event_sourcing](https://github.com/minhthuy30197/event_sourcing) - 
@@ -388,6 +389,7 @@
 
 ## Haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## Java 
