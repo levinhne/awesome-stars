@@ -1158,6 +1158,7 @@
 
 ## go 
 
+- [Samtroulcode/gp-tui](https://github.com/Samtroulcode/gp-tui) - gopass tui made in go
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [stupside/moley](https://github.com/stupside/moley) - Share a local app on your own domain in one command.
 - [samber/go-mod-graph](https://github.com/samber/go-mod-graph) - 🔭 Go module dependency visualizer
@@ -2765,6 +2766,7 @@
 
 ## terminal 
 
+- [Samtroulcode/gp-tui](https://github.com/Samtroulcode/gp-tui) - gopass tui made in go
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [jonas-grgt/ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client
@@ -2811,6 +2813,7 @@
 
 ## tui 
 
+- [Samtroulcode/gp-tui](https://github.com/Samtroulcode/gp-tui) - gopass tui made in go
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
