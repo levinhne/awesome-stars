@@ -382,7 +382,7 @@
 ## HTML 
 
 - [Friendlydicte/The-Benne-Board](https://github.com/Friendlydicte/The-Benne-Board) - The Benne Board — A self-hosted PWA for notes, tasks, finances, habits and goals. With a built-in lunar calendar. Powered by PocketBase. For Friends and Family
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [kaimg/Sports-League-Management-System](https://github.com/kaimg/Sports-League-Management-System) - A comprehensive sports league management system that streamlines the organization of sports competitions, handling team registrations, scheduling matches, tracking scores, and managing player statisti
 - [gowebexamples/gowebexamples](https://github.com/gowebexamples/gowebexamples) - Go Web Examples Generator
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
