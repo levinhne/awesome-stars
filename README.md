@@ -48,7 +48,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## Bicep 
 
@@ -700,6 +700,7 @@
 
 ## TypeScript 
 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [ujiro99/selection-command](https://github.com/ujiro99/selection-command) - Chrome Extension that allows you to perform various actions on selected text on a web page.
 - [vielang/vielang](https://github.com/vielang/vielang) - Modern Learning Platform for IT Education
 - [samber/go-mod-graph](https://github.com/samber/go-mod-graph) - 🔭 Go module dependency visualizer
