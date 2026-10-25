@@ -146,7 +146,7 @@
 - [lrstanley/entrest](https://github.com/lrstanley/entrest) - Extension that generates a compliant OpenAPI spec and server implementation
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [jonas-grgt/ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client
-- [soulteary/certs-maker](https://github.com/soulteary/certs-maker) - 100% Coverage! Lightweight self-signed certificate generator, size between 1.5MB (executable) and 5MB (docker image).
+- [soulteary/certs-maker](https://github.com/soulteary/certs-maker) - Generate self-signed TLS certificates or a local CA with signed server certificates using OpenSSL, as a Go CLI or one-shot Docker container.
 - [tametsi/adnexos](https://github.com/tametsi/adnexos) - Self-hostable expense-splitter on the web.
 - [kelindar/folio](https://github.com/kelindar/folio) - JSON document-based CMS, written with Go, SQLite & HTMX
 - [dank-stuff/dankmuzikk-legacy](https://github.com/dank-stuff/dankmuzikk-legacy) - [MIRROR] Create, Share and Play Music Playlists.
@@ -375,7 +375,7 @@
 
 ## Go Template 
 
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 653 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 656 个。
 
 ## HCL 
 
