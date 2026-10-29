@@ -100,6 +100,7 @@
 
 ## Go 
 
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [devnullvoid/cloudflare-tui](https://github.com/devnullvoid/cloudflare-tui) - A fast, terminal-based user interface for managing Cloudflare DNS records
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [Samtroulcode/gp-tui](https://github.com/Samtroulcode/gp-tui) - gopass tui made in go
