@@ -704,6 +704,7 @@
 
 ## TypeScript 
 
+- [AlexFilippov-it/wrighttest](https://github.com/AlexFilippov-it/wrighttest) - Low-code UI test automation powered by Playwright. No-code recorder, mobile testing, Docker.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [ujiro99/selection-command](https://github.com/ujiro99/selection-command) - Chrome Extension that allows you to perform various actions on selected text on a web page.
