@@ -666,7 +666,7 @@
 - [kelindar/folio](https://github.com/kelindar/folio) - JSON document-based CMS, written with Go, SQLite & HTMX
 - [fastschema/fastschema](https://github.com/fastschema/fastschema) - All-in-One Backend as a Service with Headless CMS Power
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - An open-source framework for building polished, maintainable business software with Laravel.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
@@ -1767,7 +1767,7 @@
 ## laravel 
 
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - An open-source framework for building polished, maintainable business software with Laravel.
 - [oneduo/nova-file-manager](https://github.com/oneduo/nova-file-manager) - The most advanced File Manager for Laravel Nova, feature rich and robust build.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [michael-rubel/livewire-best-practices](https://github.com/michael-rubel/livewire-best-practices) - Laravel Livewire Best Practices
