@@ -128,6 +128,7 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (&lt;50MB RAM), SQLite storage, Material Design 3 d
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
+- [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [igor-baiborodine/event-driven-architecture-in-golang-workshop](https://github.com/igor-baiborodine/event-driven-architecture-in-golang-workshop) - This workshop covers material from the "Event-Driven Architecture in Golang" book.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
@@ -251,7 +252,6 @@
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
 - [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQL 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
@@ -575,7 +575,7 @@
 
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [inovector/MixpostApp](https://github.com/inovector/MixpostApp) - Standalone application with the Laravel Package of Mixpost Lite pre-installed and configured
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - An open-source framework for building polished, maintainable business software with Laravel.
 - [oneduo/nova-file-manager](https://github.com/oneduo/nova-file-manager) - The most advanced File Manager for Laravel Nova, feature rich and robust build.
 - [JustSteveKing/laravel-webhooks](https://github.com/JustSteveKing/laravel-webhooks) - A simple webhook implementation for Laravel.
 
@@ -590,6 +590,7 @@
 
 ## Python 
 
+- [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
 - [beatwad/LinkedIn-AI-Job-Applier-Ultimate](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) - AI-powered LinkedIn and Indeed job bot with Playwright automation, LLM integration, data anonymization, and Telegram reporting. Helps to find relevant vacancies on LinkedIn and Indeed, generates custo
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [razorback16/openjev](https://github.com/razorback16/openjev) - Open, Jev-compatible System One decision server on DiffusionGemma
@@ -597,7 +598,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Sub-50mb agentic, voice and vision intelligence for consumer devices.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -698,7 +699,6 @@
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
 - [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
-- [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [crokantina/pocketbase-experiments](https://github.com/crokantina/pocketbase-experiments) - PocketBase-based authentication app with Go backend and SvelteKit frontend. Features passkeys/WebAuthn, TOTP, and traditional auth with SQLite database.
 - [chergav/translater](https://github.com/chergav/translater) - Browser extension to translate selected text with Google Translate
