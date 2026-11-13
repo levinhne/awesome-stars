@@ -63,7 +63,7 @@
 
 ## C++ 
 
-- [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) - Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported
+- [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) - Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, SSD-streamed weights, a router that predicts loads a step ahead. Mac, iPhone, Android, Windows.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
