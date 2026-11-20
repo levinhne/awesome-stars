@@ -47,7 +47,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## Bicep 
 
@@ -168,7 +168,7 @@
 - [sashabaranov/pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
-- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
+- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [fluxend/fluxend](https://github.com/fluxend/fluxend) - Backend as a Service (BaaS): Smart choice for developers who value speed and simplicity
 - [alexandrevilain/postgrest-auth](https://github.com/alexandrevilain/postgrest-auth) - Easily add authentication to your postgrest API
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
